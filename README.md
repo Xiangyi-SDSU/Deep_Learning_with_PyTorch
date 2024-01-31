@@ -13,3 +13,9 @@ The 2nd edition was estimated to be published in Fall 2024.
 
 (still being updated)
 
+
+## Next Step: Build up an intuitive understanding of deep learning after this book
+(1) Grokking Deep Learning (www.manning.com/books/grokking-deep-learning): mechanism underlying deep neural networks. 
+(2) Deep Learning by Goodfellow et al. (www.deeplearningbook.org). 
+(3) Other resources from Manning Publications (www.manning .com/catalog#section-83) 
+
