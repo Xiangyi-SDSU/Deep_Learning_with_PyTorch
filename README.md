@@ -9,7 +9,7 @@ The code for the book is available for download from Manning’s website (www.ma
 The 2nd edition was estimated to be published in Fall 2024.
 
 ## Contents  
-1. <a href='https://github.com/Xiangyi-SDSU/Python_for_Data_Science_and_Machine_Learning/tree/main/Python_Basics'>Chapter 1</a>
+1. <a href='https://github.com/Xiangyi-SDSU/Deep_Learning_with_PyTorch/tree/main/Front_Matter'>Front_Matter</a>
 
 (still being updated)
 
