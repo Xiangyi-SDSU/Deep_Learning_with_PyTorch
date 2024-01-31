@@ -1,0 +1,15 @@
+1. In the early 21st century, particularly around 2010, deep learning began to be widely applied and developed, 
+  accompanied by an increase in computational power and the emergence of big data.
+
+2. Deep Learning's initial appearance was in Computer Vision.
+
+3. The first PyTorch was released on Jan 18, 2017.
+
+4. Hardware and software requirements: 
+   Require a CUDA-capable GPU. 
+   Part 2 assumes:
+        a GPU with 8 GB of RAM (suggest an NVIDIA GTX 1070 or better) 
+        (parameters can be adjusted if your hardware has less RAM available)
+        The raw data needs about 60 GB to download 
+        200 GB (at minimum) of free disk space on the system to train model
+  
