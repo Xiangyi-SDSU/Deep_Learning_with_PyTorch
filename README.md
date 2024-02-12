@@ -10,6 +10,7 @@ The 2nd edition was estimated to be published in Fall 2024.
 
 ## Contents  
 1. <a href='https://github.com/Xiangyi-SDSU/Deep_Learning_with_PyTorch/tree/main/Front_Matter'>Front_Matter</a>
+2. <a href='https://github.com/Xiangyi-SDSU/Deep_Learning_with_PyTorch/tree/main/Part_1/Chapter_1_Introducing_DL_and_PyTorch'>Chapter_1_Introducing_DL_and_PyTorch</a>
 
 (still being updated)
 
