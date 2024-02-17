@@ -5,4 +5,18 @@ carry out AI tasks.
 deals with tasks automatically through refining models. (This is not to say that feature engineering has no place 
 with deep learning) 
 
-3.
+3. The core data structure in PyTorch is multidimensional arrays (tensors). PyTorch also provides an extensive 
+library of operation on them (torch module).
+
+4. Tensors and operations on them can be conducted on either CPU or GPU. Transitioning calculations from the CPU 
+to the GPU is as straightforward as adding one or two extra function calls. (up to 50 times over CPU calculation)
+
+5. Two core things provided in PyTorch:
+(1) core data structure: Tensors
+(2) the ability of tensors to track the operations performed on them 
+
+6. Two things offers in PyTorch make it particularly relevant to deep learning:
+(1) Accelerated computation using GPU
+(2) Numerical Optimization on generic mathematical expressions
+
+
